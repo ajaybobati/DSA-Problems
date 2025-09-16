@@ -42,7 +42,7 @@ class text
         int[] nums = { 4, -6, 3, -1, 4, 2, 7 };
  
         if (hasZeroSumSubarray(nums)) {
-            System.out.println("Subarray exists");
+            System.out.println("Subarray seexists");
         }
         else {
             System.out.println("Subarray does not exist");
