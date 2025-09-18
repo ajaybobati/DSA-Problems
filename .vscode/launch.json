@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Array.Main",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findMaxSubarrayLen",
+            "request": "launch",
+            "mainClass": "Array.findMaxSubarrayLen",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "isTripletEx",
+            "request": "launch",
+            "mainClass": "Array.isTripletEx",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "sortAr",
             "request": "launch",
             "mainClass": "Array.sortAr",

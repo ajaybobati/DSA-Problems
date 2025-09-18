@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
  
-class  sortAr
+class sortt
 {
     private static void sortArray(int[] arr)
     {
@@ -13,7 +13,7 @@ class  sortAr
         int x = -1, y = -1;
         int prev = arr[0];
  
-        
+      
         for (int i = 1; i < arr.length; i++)
         {
             
