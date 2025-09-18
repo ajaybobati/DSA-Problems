@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "sortAr",
+            "request": "launch",
+            "mainClass": "Array.sortAr",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "decod",
+            "request": "launch",
+            "mainClass": "Array.decod",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findMinPla",
+            "request": "launch",
+            "mainClass": "Array.findMinPla",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findMaxProd",
+            "request": "launch",
+            "mainClass": "Array.findMaxProd",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
