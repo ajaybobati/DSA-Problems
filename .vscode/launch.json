@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "quad",
+            "request": "launch",
+            "mainClass": "Array.quad",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "hasQuadrup",
             "request": "launch",
             "mainClass": "Array.hasQuadrup",
