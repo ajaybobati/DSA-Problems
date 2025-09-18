@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findP",
+            "request": "launch",
+            "mainClass": "Array.findP",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findMaxPr",
             "request": "launch",
             "mainClass": "Array.findMaxPr",
