@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findPa",
+            "request": "launch",
+            "mainClass": "Array.findPa",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findMaxSumS",
             "request": "launch",
             "mainClass": "Array.findMaxSumS",
