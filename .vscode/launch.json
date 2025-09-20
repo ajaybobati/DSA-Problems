@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "replac",
+            "request": "launch",
+            "mainClass": "Array.replac",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findMinTripletPro",
+            "request": "launch",
+            "mainClass": "Array.findMinTripletPro",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "isConsecu",
             "request": "launch",
             "mainClass": "Array.isConsecu",
