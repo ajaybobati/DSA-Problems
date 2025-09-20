@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findRepea",
+            "request": "launch",
+            "mainClass": "Array.findRepea",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "replac",
             "request": "launch",
             "mainClass": "Array.replac",
