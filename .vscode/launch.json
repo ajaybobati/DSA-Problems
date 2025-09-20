@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maxim",
+            "request": "launch",
+            "mainClass": "Array.Maxim",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "finds",
             "request": "launch",
             "mainClass": "Array.finds",
