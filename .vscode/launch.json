@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findTr",
+            "request": "launch",
+            "mainClass": "Array.findTr",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "printSubarr",
             "request": "launch",
             "mainClass": "Array.printSubarr",
