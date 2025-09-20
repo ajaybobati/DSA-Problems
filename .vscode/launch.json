@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ranm",
+            "request": "launch",
+            "mainClass": "Array.ranm",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findMinIn",
+            "request": "launch",
+            "mainClass": "Array.findMinIn",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "countWa",
             "request": "launch",
             "mainClass": "Array.countWa",
