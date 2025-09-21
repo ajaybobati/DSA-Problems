@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findCombinat",
+            "request": "launch",
+            "mainClass": "Array.findCombinat",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "printCombina",
             "request": "launch",
             "mainClass": "Array.printCombina",
