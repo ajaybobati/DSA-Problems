@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "schedul",
+            "request": "launch",
+            "mainClass": "Array.schedul",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findI",
             "request": "launch",
             "mainClass": "Array.findI",
