@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findI",
+            "request": "launch",
+            "mainClass": "Array.findI",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findIndexo",
             "request": "launch",
             "mainClass": "Array.findIndexo",
