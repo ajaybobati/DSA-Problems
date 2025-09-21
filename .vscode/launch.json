@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findIndexo",
+            "request": "launch",
+            "mainClass": "Array.findIndexo",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "mergsper",
+            "request": "launch",
+            "mainClass": "Array.mergsper",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findCombinat",
             "request": "launch",
             "mainClass": "Array.findCombinat",
