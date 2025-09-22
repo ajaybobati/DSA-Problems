@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findKthLar",
+            "request": "launch",
+            "mainClass": "Array.findKthLar",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Maxin",
+            "request": "launch",
+            "mainClass": "Array.Maxin",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "checkMi",
+            "request": "launch",
+            "mainClass": "Array.checkMi",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "Heapsr",
             "request": "launch",
             "mainClass": "Array.Heapsr",
