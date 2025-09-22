@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertio",
+            "request": "launch",
+            "mainClass": "Array.insertio",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Iterativequ",
+            "request": "launch",
+            "mainClass": "Array.Iterativequ",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Pairiter",
+            "request": "launch",
+            "mainClass": "Array.Pairiter",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "Quicksr",
             "request": "launch",
             "mainClass": "Array.Quicksr",
