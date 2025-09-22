@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sortByFrequencyAn",
+            "request": "launch",
+            "mainClass": "Array.sortByFrequencyAn",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Hore",
+            "request": "launch",
+            "mainClass": "Array.Hore",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "Quicksort",
             "request": "launch",
             "mainClass": "Array.Quicksort",
