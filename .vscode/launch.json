@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findKthSm",
+            "request": "launch",
+            "mainClass": "Array.findKthSm",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "printSo",
+            "request": "launch",
+            "mainClass": "Array.printSo",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "sortKSorte",
+            "request": "launch",
+            "mainClass": "Array.sortKSorte",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findKthLar",
             "request": "launch",
             "mainClass": "Array.findKthLar",
