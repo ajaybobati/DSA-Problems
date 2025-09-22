@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selectionSor",
+            "request": "launch",
+            "mainClass": "Array.selectionSor",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "insertionS",
+            "request": "launch",
+            "mainClass": "Array.insertionS",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "printSos",
+            "request": "launch",
+            "mainClass": "Array.printSos",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "SmallestRangeInLists",
+            "request": "launch",
+            "mainClass": "Array.SmallestRangeInLists",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "range",
+            "request": "launch",
+            "mainClass": "Array.range",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "small",
+            "request": "launch",
+            "mainClass": "Array.small",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findKthSm",
             "request": "launch",
             "mainClass": "Array.findKthSm",
