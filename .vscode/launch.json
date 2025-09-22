@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findInve",
+            "request": "launch",
+            "mainClass": "Array.findInve",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "customS",
+            "request": "launch",
+            "mainClass": "Array.customS",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "sortByFrequencyAn",
             "request": "launch",
             "mainClass": "Array.sortByFrequencyAn",
