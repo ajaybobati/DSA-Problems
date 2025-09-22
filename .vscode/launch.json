@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Quicksort",
+            "request": "launch",
+            "mainClass": "Array.Quicksort",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "qnew",
+            "request": "launch",
+            "mainClass": "Array.qnew",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Qickks",
+            "request": "launch",
+            "mainClass": "Array.Qickks",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "insertio",
             "request": "launch",
             "mainClass": "Array.insertio",
