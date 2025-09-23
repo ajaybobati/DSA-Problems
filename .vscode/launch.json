@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findRotatio",
+            "request": "launch",
+            "mainClass": "Array.findRotatio",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findRotatio",
+            "request": "launch",
+            "mainClass": "findRotatio",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "bina",
             "request": "launch",
             "mainClass": "Array.bina",
