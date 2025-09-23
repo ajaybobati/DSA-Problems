@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findMissin",
+            "request": "launch",
+            "mainClass": "Array.findMissin",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findAllCombinationsele",
+            "request": "launch",
+            "mainClass": "Array.findAllCombinationsele",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Decodethe",
+            "request": "launch",
+            "mainClass": "Array.Decodethe",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findCombinatioo",
+            "request": "launch",
+            "mainClass": "Array.findCombinatioo",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Longestalt",
+            "request": "launch",
+            "mainClass": "Array.Longestalt",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "cou",
+            "request": "launch",
+            "mainClass": "Array.cou",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findMinC",
             "request": "launch",
             "mainClass": "Array.findMinC",
