@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findMissingAn",
+            "request": "launch",
+            "mainClass": "Array.findMissingAn",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "finddup",
+            "request": "launch",
+            "mainClass": "Array.finddup",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Iterat",
+            "request": "launch",
+            "mainClass": "Array.Iterat",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "checkSu",
             "request": "launch",
             "mainClass": "Array.checkSu",
