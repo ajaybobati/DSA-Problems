@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "printAllSubst",
+            "request": "launch",
+            "mainClass": "Array.printAllSubst",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Findfreq",
+            "request": "launch",
+            "mainClass": "Array.Findfreq",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "mandmax",
+            "request": "launch",
+            "mainClass": "Array.mandmax",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findMissingAn",
             "request": "launch",
             "mainClass": "Array.findMissingAn",
