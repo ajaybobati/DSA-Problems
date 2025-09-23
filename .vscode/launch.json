@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findSmal",
+            "request": "launch",
+            "mainClass": "Array.findSmal",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "binarySe",
+            "request": "launch",
+            "mainClass": "Array.binarySe",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findFirstOcc",
+            "request": "launch",
+            "mainClass": "Array.findFirstOcc",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "searchCirc",
+            "request": "launch",
+            "mainClass": "Array.searchCirc",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "findRotatio",
             "request": "launch",
             "mainClass": "Array.findRotatio",
