@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findMinC",
+            "request": "launch",
+            "mainClass": "Array.findMinC",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "rodC",
+            "request": "launch",
+            "mainClass": "Array.rodC",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "findMinAb",
+            "request": "launch",
+            "mainClass": "Array.findMinAb",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "subsetS",
+            "request": "launch",
+            "mainClass": "Array.subsetS",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "knaps",
             "request": "launch",
             "mainClass": "Array.knaps",
