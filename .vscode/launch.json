@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findOddOccu",
+            "request": "launch",
+            "mainClass": "BinaryTree.findOddOccu",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "Parity",
             "request": "launch",
             "mainClass": "BinaryTree.Parity",
