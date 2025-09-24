@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Parity",
+            "request": "launch",
+            "mainClass": "BinaryTree.Parity",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "BitHacksLettersSimple",
             "request": "launch",
             "mainClass": "BinaryTree.BitHacksLettersSimple",
