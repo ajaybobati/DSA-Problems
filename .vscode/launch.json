@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kportion",
+            "request": "launch",
+            "mainClass": "Array.kportion",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "printAllCombina",
+            "request": "launch",
+            "mainClass": "Array.printAllCombina",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "StringPermutations",
+            "request": "launch",
+            "mainClass": "Array.StringPermutations",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "isVali",
+            "request": "launch",
+            "mainClass": "Array.isVali",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "Shortes",
+            "request": "launch",
+            "mainClass": "Array.Shortes",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
+            "name": "isSa",
+            "request": "launch",
+            "mainClass": "Array.isSa",
+            "projectName": "DSA-Problems_59a8cd85"
+        },
+        {
+            "type": "java",
             "name": "printAllSubst",
             "request": "launch",
             "mainClass": "Array.printAllSubst",
