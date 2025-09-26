@@ -13,7 +13,6 @@ class Node
  
 class Main
 {
-    // Helper function to print a given linked list
     public static void printList(Node head)
     {
         Node ptr = head;
@@ -26,8 +25,6 @@ class Main
         System.out.println("null");
     }
  
-    // Takes two lists sorted in increasing order and merge their nodes
-    // to make one big sorted list, which is returned
     public static Node sortedMerge(Node a, Node b)
     {
         // base cases
@@ -39,8 +36,6 @@ class Main
         }
  
         Node result;
- 
-        // pick either `a` or `b`, and recur
         if (a.data <= b.data)
         {
             result = a;
@@ -54,11 +49,6 @@ class Main
         return result;
     }
  
-    /*
-        Split the given list's nodes into front and back halves,
-        If the length is odd, the extra node should go in the front list.
-        It uses the fast/slow pointer strategy
-    */
     public static Node[] frontBackSplit(Node source)
     {
         if (source == null || source.next == null) {
