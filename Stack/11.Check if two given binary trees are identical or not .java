@@ -11,7 +11,7 @@ class Node
 }
  
 class Main
-{t
+{
     public static boolean isIdentical(Node x, Node y)
     {
         if (x == null && y == null) {
