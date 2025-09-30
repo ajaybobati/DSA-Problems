@@ -10,8 +10,7 @@ class Maxi
  
         
         int maxEndingHere = 0;
- 
-        // traverse the given array
+
         for (int i: arr)
         {
             
